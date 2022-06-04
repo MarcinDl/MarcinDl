@@ -10,7 +10,6 @@ My stack:
 - Angular/Ionic
 - NodeJS/ExpressJS
 - MongoDB
-<!---
 
 Here are some projects which I am especially proud of:
 - https://play.google.com/store/apps/details?id=com.moviguide
@@ -23,7 +22,6 @@ Here are some projects which I am especially proud of:
 - LifeFestival app - http://lifefestival.pl/pl/news/Pobierz-festiwalowa-aplikacje,374.html
 - 
 Here are some ideas to get you started:
--->
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
